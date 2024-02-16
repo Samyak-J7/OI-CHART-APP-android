@@ -1,0 +1,6 @@
+<!-- rounded_spinner_bg.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <solid android:color="#b798e1" />
+    <corners android:radius="16dp" />
+</shape>
